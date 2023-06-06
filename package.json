@@ -1,6 +1,6 @@
 {
   "name": "@swyger/cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Swyger CLI is used to create projects(Server/Client) with boilerplate!",
   "type": "module",
   "main": "bin/index.js",
@@ -25,6 +25,7 @@
     "Swyger CLI",
     "CLI",
     "Client",
+    "Server",
     "RestAPI",
     "API",
     "Swyger",

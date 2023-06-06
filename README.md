@@ -1,7 +1,6 @@
 #  <span style="color: red;">Swyger</span> <span style="color: blue;">CLI</span>
 
-<img alt="Alt text" height="300" src="./preview/logo_name.png" title="a title" width="400"/>
-
+![alt text](./preview/logo_name.png "Swyger Logo")
 
 **Swyger CLI(Command Line Interface)** is created to help you to generate the boilerplate project (server/client...)
 
@@ -39,12 +38,9 @@ Note: In case you don't know options, just type ``swyger-cli init`` and follow t
 
 ## References
 
-- Vite Config: https://vitejs.dev/config/
-- RollupOption: https://rollupjs.org/guide/en/#big-list-of-options
-- Petite-Vue: https://www.npmjs.com/package/petite-vue
-- SPA-Router-Better: https://github.com/zcoding/spa-router
-- SEO-META: https://www.npmjs.com/package/head-manager
-- IFrame Api: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
+- @clack/prompts: https://github.com/natemoo-re/clack
+- yargs: https://www.npmjs.com/package/yargs
+
 
 # Join US
 If you have any suggestion, feature to add ...etc
