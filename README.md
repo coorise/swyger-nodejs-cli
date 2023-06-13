@@ -6,7 +6,7 @@
 
 So it is a free and open source!!!
 
-Note:Look for rollup option in **vite.config.js**
+
 
 ## Prerequisite:
 - NodeJS 16+: https://nodejs.org/
@@ -28,12 +28,12 @@ or globally ``npm i -g @swyger/client``
 
 ## Common Commands:
 
-- ``swyger-cli -- -h``: To get th commands and option
+- ``swyger-cli -- -h``: To get the commands and option
 - ``swyger-cli -- init``: To init the project
   - ``init`` command can be directly chained with:
     - ``-n your-project-name``: To create the project name
 
-Note: In case you don't know options, just type ``swyger-cli init`` and follow the scripts.
+Note: In case you don't know the options, just type ``swyger-cli init`` and follow the scripts.
 
 
 ## References

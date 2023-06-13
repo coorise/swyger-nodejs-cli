@@ -1,6 +1,6 @@
 {
   "name": "@swyger/cli",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Swyger CLI is used to create projects(Server/Client) with boilerplate!",
   "type": "module",
   "main": "bin/index.js",
@@ -33,7 +33,9 @@
     "Boilerplate",
     "CMS",
     "SPA",
-    "Components"
+    "Components",
+    "strapi",
+    "firebase"
   ],
   "author": "Agglomy",
   "license": "MIT",
