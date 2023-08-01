@@ -1,4 +1,5 @@
 // Run `npm run start` to start the demo
+//On local package: swyger -- init
 import {
     intro,
     outro,

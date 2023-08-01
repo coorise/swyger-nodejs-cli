@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-// Run `npm run start` to start the demo
 import {
     intro,
     outro,
